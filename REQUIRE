@@ -1,2 +1,8 @@
 julia 1
 Optim
+Format
+LinearAlgebra
+StatsBase
+Distributions
+Parameters
+DataFrames
